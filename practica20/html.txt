@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>A simple text</title>
+</head>
+<body>
+	<section>
+	<p><a>link</a>...</p>
+	<p>...</p>
+	</section>
+	<section>
+	<img>
+	</section>
+</body>
+</html>
